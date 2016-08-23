@@ -1,7 +1,5 @@
 # gl-compute-c99
 
-A simple Compute Shader sample using C99 and OpenGL 4.3.
-
 ## A Propos
 
 A simple & self-contains Compute Shader sample using C99 and OpenGL 4.3.
