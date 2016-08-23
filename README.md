@@ -33,4 +33,4 @@ Noise and fbm shaders code from Iñigo Quilez.
 
 ## License
 
-*gl-compute-c99* is released under *The Unlicense*.
+This project is released under *The Unlicense*.
